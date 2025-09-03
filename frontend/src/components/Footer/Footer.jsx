@@ -48,6 +48,7 @@ const Footer = () => {
             <li><BsQuestionCircle className='icon' /><Link to="/faq"><span>FAQ</span></Link></li>
           </ul>
         </div>
+
         {/* Contact Info */}
         <div className='footer-content-right'>
           <h2 className='text'>Get In Touch</h2>
